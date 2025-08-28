@@ -1,0 +1,7 @@
+ls ----------------------------------------> lista arquivos
+cd ----------------------------------------> move entre diretórios
+pwd ---------------------------------------> mostra diretório de trabalho
+git init . --------------------------------> inicia um repositório no git
+git status --------------------------------> mostra como está o diretório
+git add -----------------------------------> adiciona aquilo que vá para o commit
+git commit -m 'mensagem' ------------------> faz o commit 
