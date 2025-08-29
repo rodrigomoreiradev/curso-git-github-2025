@@ -12,6 +12,11 @@ nosso YouTube. É grátis! segue o link:
 
 [Curso git 2025] (https://youtube.com/teomeway)
 
+Além do YouTube, se ligue no site e agenda para ficar por dentro de tudo
+que vai rolar em 2025.
+
+[teomewhy.org](https://teomewhy.org/schedule)
+
 ## Fluxo de trabalho Git local
 
 1. git checkout -b
