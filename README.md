@@ -9,6 +9,7 @@ ao final do curso e Visual Studio Code.
 
 Confira tudo o que temos no 
 nosso YouTube. É grátis! segue o link:
+
 [Curso git 2025] (https://youtube.com/teomeway)
 
 ## Fluxo de trabalho Git local
