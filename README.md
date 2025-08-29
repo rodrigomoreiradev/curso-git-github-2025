@@ -25,21 +25,21 @@ nosso YouTube. É grátis!
 ## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 
 1.git clone
-2.git checkout -b <nova_branch>
+2.git checkout -b <"nova_branch">
 3.alterações de arquivos
 4.git status
 5.git add arquivos
 6.git status
 7.git commit -m "nova mensagem"
-8.git push origin <nova_branch>
+8.git push origin <"nova_branch">
 9.abrir Pull request no GitHub para main
-10.excluir <nova_branch> origin
+10.excluir <"nova_branch"> origin
 11.git checkout main
-12.git branch -D <nova_branch>
+12.git branch -D <"nova_branch">
 13.Fluxo de trabalho GitHub <> Local (projetos open-source)
 14.Fork do projeto para seu próprio github
 15.git clone
-16.git checkout -b <nova_branch>
+16.git checkout -b <"nova_branch">
 
 ## Alterações de arquivos
 
@@ -47,8 +47,8 @@ nosso YouTube. É grátis!
 2.git add arquivos
 3.git status
 4.git commit -m "nova mensagem"
-5.git push origin <nova_branch>
+5.git push origin <"nova_branch">
 6.abrir Pull request no GitHub da branch fork para a main do projeto original
-7.excluir <nova_branch> origin
+7.excluir <"nova_branch"> origin
 8.git checkout main
-9.git branch -D <nova_branch>
+9.git branch -D <"nova_branch">
